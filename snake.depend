@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606797307 source:c:\users\moda\desktop\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
